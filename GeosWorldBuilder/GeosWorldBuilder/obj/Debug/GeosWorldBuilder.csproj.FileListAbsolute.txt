@@ -1,5 +1,0 @@
-D:\Projects\ShardEngine\GeosWorldBuilder\GeosWorldBuilder\GeosWorldBuilder\obj\Debug\GeosWorldBuilder.csproj.CoreCompileInputs.cache
-D:\Projects\ShardEngine\GeosWorldBuilder\GeosWorldBuilder\GeosWorldBuilder\bin\Debug\GeosWorldBuilder.dll
-D:\Projects\ShardEngine\GeosWorldBuilder\GeosWorldBuilder\GeosWorldBuilder\bin\Debug\GeosWorldBuilder.pdb
-D:\Projects\ShardEngine\GeosWorldBuilder\GeosWorldBuilder\GeosWorldBuilder\obj\Debug\GeosWorldBuilder.dll
-D:\Projects\ShardEngine\GeosWorldBuilder\GeosWorldBuilder\GeosWorldBuilder\obj\Debug\GeosWorldBuilder.pdb
